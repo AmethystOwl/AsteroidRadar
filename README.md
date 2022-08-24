@@ -7,3 +7,7 @@ Use the updated Gradle version in the `~/gradle/wrapper/gradle-wrapper.propertie
 ```
 distributionUrl = https\://services.gradle.org/distributions/gradle-6.1.1-all.zip
 ```
+
+
+## Note: NASA API key
+Please replace "apiKey" variable value located in the `AsteroidRadar/app/src/main/java/com/udacity/asteroidradar/api/AsteroidsApi.kt` file with your own API key.
