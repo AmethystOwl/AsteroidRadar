@@ -2,8 +2,8 @@ package com.udacity.asteroidradar.database
 
 import androidx.lifecycle.LiveData
 import androidx.room.*
-import com.udacity.asteroidradar.Asteroid
-import com.udacity.asteroidradar.PictureOfDay
+import com.udacity.asteroidradar.model.Asteroid
+import com.udacity.asteroidradar.model.PictureOfDay
 import kotlinx.coroutines.flow.Flow
 
 @Dao

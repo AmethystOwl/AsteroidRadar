@@ -11,7 +11,7 @@
 
         <variable
             name="apod"
-            type="com.udacity.asteroidradar.PictureOfDay" />
+            type="com.udacity.asteroidradar.model.PictureOfDay" />
 
     </data>
 

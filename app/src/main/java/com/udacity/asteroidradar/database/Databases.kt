@@ -4,8 +4,8 @@ import android.content.Context
 import androidx.room.Database
 import androidx.room.Room
 import androidx.room.RoomDatabase
-import com.udacity.asteroidradar.Asteroid
-import com.udacity.asteroidradar.PictureOfDay
+import com.udacity.asteroidradar.model.Asteroid
+import com.udacity.asteroidradar.model.PictureOfDay
 
 @Database(entities = [Asteroid::class], version = 1, exportSchema = false)
 abstract class AsteroidsDatabase : RoomDatabase() {

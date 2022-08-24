@@ -5,6 +5,7 @@ import com.udacity.asteroidradar.api.AsteroidsNetwork
 import com.udacity.asteroidradar.api.parseAsteroidsJsonResult
 import com.udacity.asteroidradar.database.AsteroidsDatabase
 import com.udacity.asteroidradar.database.PictureOfDayDatabase
+import com.udacity.asteroidradar.model.Asteroid
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.withContext
 import org.json.JSONObject

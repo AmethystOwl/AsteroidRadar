@@ -5,9 +5,11 @@ import androidx.lifecycle.*
 import com.udacity.asteroidradar.*
 import com.udacity.asteroidradar.database.AsteroidsDatabase
 import com.udacity.asteroidradar.database.PictureOfDayDatabase
+import com.udacity.asteroidradar.model.Asteroid
+import com.udacity.asteroidradar.model.PictureOfDay
+import com.udacity.asteroidradar.utils.Constants
 import kotlinx.coroutines.flow.collect
 import kotlinx.coroutines.launch
-import timber.log.Timber
 import java.text.SimpleDateFormat
 import java.util.*
 

@@ -5,7 +5,7 @@ import android.view.*
 import androidx.fragment.app.Fragment
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
-import com.udacity.asteroidradar.AsteroidAdapter
+import com.udacity.asteroidradar.adapter.AsteroidAdapter
 import com.udacity.asteroidradar.R
 import com.udacity.asteroidradar.database.AsteroidsDatabase
 import com.udacity.asteroidradar.database.PictureOfDayDatabase

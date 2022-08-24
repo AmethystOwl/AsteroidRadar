@@ -5,7 +5,7 @@ import android.content.Context
 import androidx.work.CoroutineWorker
 import androidx.work.WorkerParameters
 import com.udacity.asteroidradar.AsteroidsRepository
-import com.udacity.asteroidradar.Constants
+import com.udacity.asteroidradar.utils.Constants
 import com.udacity.asteroidradar.PictureOfTheDayRepository
 import com.udacity.asteroidradar.database.AsteroidsDatabase
 import com.udacity.asteroidradar.database.PictureOfDayDatabase

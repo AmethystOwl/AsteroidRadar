@@ -1,4 +1,4 @@
-package com.udacity.asteroidradar
+package com.udacity.asteroidradar.application
 
 import android.app.Application
 import androidx.work.*
